@@ -10,8 +10,9 @@ It is designed to be **fully standalone on Linux**, requiring no Python or addit
 
 ### Latest Release
 
-- [Windows EXE](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr.exe)  
-- [Linux binary](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr)
+- [Windows EXE](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr-windows-x64-v1.0.0.exe)  
+- [Linux binary](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr-linux-x64-v1.0.0)
+- [Android Termux binary/arm64](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr-android-termux-arm64-v1.0.0)
 
 
 ---
