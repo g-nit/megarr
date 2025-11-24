@@ -6,6 +6,14 @@ Base64/MegaLink decoder and downloader using megatools
 Megarr is a utility to **decode Base64 strings** or **MegaLinks** and download them using **megatools**.  
 It is designed to be **fully standalone on Linux**, requiring no Python or additional dependencies for end users.
 
+## Download
+
+### Latest Release
+
+- [Windows EXE](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr.exe)  
+- [Linux binary](https://github.com/g-nit/megarr/releases/download/v1.0.0/megarr)
+
+
 ---
 
 ## Features
@@ -16,6 +24,10 @@ It is designed to be **fully standalone on Linux**, requiring no Python or addit
 - User-friendly interactive menu.
 
 ---
+
+## Preview
+![Screenshot of Megarr](assets/Preview.png)
+
 
 ## Usage
 
