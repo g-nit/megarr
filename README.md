@@ -56,6 +56,10 @@ After decoding or detecting a MegaLink, options include:
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE)<br><br>
+  
+<a href="https://www.buymeacoffee.com/gnit" target="_blank">
+  <img src="images/funding.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
 
 
